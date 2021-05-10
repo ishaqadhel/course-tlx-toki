@@ -1,2 +1,3 @@
-# course-tlx-toki
-Course Basic and Competitive Programming by Toki Indonesia
+# Course TLX TOKI 
+
+Link : https://tlx.toki.id/courses
